@@ -1,0 +1,1 @@
+Este repositorio contiene las etiquetas basicas para el diseño de una pagina Html.Se muestra como se estructura de forma semantica con las etiquetas de header,main y footer.Tambien la muestra la forma de crear tablas,la cual se le debe agregar algunos estilos dentro del Head de Html 
